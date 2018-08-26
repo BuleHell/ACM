@@ -12,7 +12,9 @@ void Base::Solution1::test1() {
 }
 
 void Base::Solution1::test2() {
+    printf("%f\n",1.0+2);
 
+    printf("%.11f\n",8.0/5.0);
 }
 
 std::string Base::Solution1::LongestWord(string sem) {
