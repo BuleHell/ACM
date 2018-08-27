@@ -7,7 +7,6 @@
 
 #include <float.h>
 #include <stdio.h>
-#include "Solution1.h"
 #include <string>
 
 namespace Base {

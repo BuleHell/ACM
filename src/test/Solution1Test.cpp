@@ -1,6 +1,6 @@
 
 #include <gtest/gtest.h>
-#include <Solution1.h>
+#include "Solution1.h"
 
 // 测试是有相应的main
 //#ifdef DEBUGGER
